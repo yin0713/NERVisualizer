@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "text": "首尔拍卖行也乐于向韩国乃至整个亚洲介绍中国的年轻艺术家。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 5,
+                "entity": "首尔拍卖行",
+                "type": "company"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 27,
+                "entity": "艺术家",
+                "type": "position"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "艺术家也讨厌画廊的老板，内心恨他们，这样的话，你是在这样的状态下，两年都是一次性合作，甚至两年、",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 3,
+                "entity": "艺术家",
+                "type": "position"
+            }
+        ]
+    }
+]
