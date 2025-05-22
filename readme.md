@@ -14,13 +14,5 @@ This repo is used to visualize the ner result by your model and facilitate you t
   2. cd NERVisualizer
   3. pip install -r requirements.txt
   4. streamlit run app.py
-
-- Finally
-  
-  If you feel useful and it saved you a little time in addition.
-  
-  You can choose to donate me.
-
-  <p align="left"> <img src="data/alipay.png" width="200px" /> </p>
   
   
